@@ -2,7 +2,7 @@
 
 This repository contains the code of my self introduction which I built using reveal.js
 
-The page is available at [https://raptho.github.io/selfIntroductionRevealJS](https://raptho.github.io/selfIntroductionRevealJS)
+The page is available at [https://raptho.github.io/selfIntro](https://raptho.github.io/selfIntro)
 
 ## Requirements
 
