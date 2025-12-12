@@ -91,3 +91,12 @@ div.keepLeft>h3 {
 div.keepLeft>ul>li {
     margin-top: 10px;
 }
+
+.qrCode {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+}
