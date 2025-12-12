@@ -13,13 +13,13 @@ A modern version of Node.js and its package manager npm. Download and install it
 Clone the repository
 
 ```
-git clone https://github.com/RapTho/selfIntroductionRevealJS.git
+git clone https://github.com/RapTho/selfIntro.git
 ```
 
 Install dependencies
 
 ```
-cd selfIntroductionRevealJS
+cd selfIntro
 npm install
 ```
 
